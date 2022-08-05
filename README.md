@@ -23,7 +23,8 @@ Simple game with cute design.
   2. Install tic80 simulator
   3. Open tic80 and load this cart
   4. Run and enjoy!
-    for more details go https://tic80.com/learn
+    
+  for more details go https://tic80.com/learn
 
 ## Or you can play it here
 
